@@ -1,9 +1,31 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
+  - title: "ICS3UI"
+    url: /ics3ui/
   - title: "About"
     url: /about/
+ics3ui:
+  - title: "Unit 1: The Basics"
+    children:
+      - title: "What is CS?"
+        url: /ics3ui/1.1-what_is_cs/
+      - title: "Into to Repl.it"
+        url: /ics3ui/1.2-replit/
+      - title: "Variables and Constants"
+        url: /ics3ui/1.3-vars/
+      - title: "Input and Output"
+        url: /ics3ui/1.4-console_io/
+      - title: "Making Decisions"
+        url: /ics3ui/1.5-ifelse/
+  - title: "Unit 2: More Advanced"
+    children:
+      - title: "Nesting"
+        url: /ics3ui/2.1-nested/
+      - title: "Repetition 1"
+        url: /ics3ui/2.2-while/
+      - title: "Repetition 2"
+        url: /ics3ui/2.3-for/
+      - title: "Arrays"
+        url: /ics3ui/2.4-arrays/
+      - title: "Methods"
+        url: /ics3ui/2.5-methods/
+        
